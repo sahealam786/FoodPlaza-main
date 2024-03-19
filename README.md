@@ -1,4 +1,4 @@
-# Foodplaza
+![Screenshot 2024-03-19 204432](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/62e5f109-5ad5-4868-baf9-f9e3b75ba5a0)# Foodplaza
 
   The purpose of Online Food Ordering System is to automate the existing manual system by the help of computerized equipment’s and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy accessing and manipulation of the same. The required software and hardware are easily available and easy to work with.
     
@@ -12,15 +12,18 @@
 
 
 Homepage:<br>
-![alt text](https://github.com/CosmiX-6/FoodPlaza/blob/main/Screenshots/foodplaza-admin-home-1.png "Home Preview")
-![alt text](https://github.com/CosmiX-6/FoodPlaza/blob/main/Screenshots/foodplaza-login.png "Login Preview")
-![alt text](![Screenshot 2024-03-19 204354](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/b39636a0-1386-45d3-8f62-d1ff930b147b)"Login Preview")
+![alt text](![Screenshot 2024-03-19 204354](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/b39636a0-1386-45d3-8f62-d1ff930b147b)"Home Preview")
+![alt text]![Screenshot 2024-03-19 204432](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/70d88d44-80f7-4727-9278-1f1879600bf7)"LoginPreview")
+
+
+
 
 
 -----------------------------------------------
 `<url>/admin` (Database Backend)<br>
 id = 'cosmix' | pass = 'admin'<br>
 Register for admin login in database backend!!
+
 
 -----------------------------------------------
 Register New account for login as user
