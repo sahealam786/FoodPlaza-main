@@ -1,5 +1,4 @@
-![Screenshot 2024-03-19 204432](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/62e5f109-5ad5-4868-baf9-f9e3b75ba5a0)# Foodplaza
-
+  # Foodplaza
   The purpose of Online Food Ordering System is to automate the existing manual system by the help of computerized equipment’s and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy accessing and manipulation of the same. The required software and hardware are easily available and easy to work with.
     
   Online Food Ordering System, as described above, can lead to error free, secure, reliable and fast management system. It can assist the user to concentrate on their other activities rather to concentrate on the record keeping. Thus it will help organization in better utilization of resources. The organization can maintain computerized records without redundant entries. That means that one need not be distracted by information that is not relevant, while being able to reach the information.
@@ -12,8 +11,8 @@
 
 
 Homepage:<br>
-![alt text](![Screenshot 2024-03-19 204354](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/b39636a0-1386-45d3-8f62-d1ff930b147b)"Home Preview")
-![alt text]![Screenshot 2024-03-19 204432](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/70d88d44-80f7-4727-9278-1f1879600bf7)"LoginPreview")
+(![Screenshot 2024-03-19 204354](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/b39636a0-1386-45d3-8f62-d1ff930b147b)"Home Preview")
+(![Screenshot 2024-03-19 204432](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/70d88d44-80f7-4727-9278-1f1879600bf7)"LoginPreview")
 
 
 
@@ -35,4 +34,4 @@ __Language Used:__
  + __frontend :__ #HTML, #CSS, #JS
  + __backend :__ #Python3 #Django #Sqlite3
 
-Extra Theme for app available in Template Test folder(used online Bootstrap)*
+
