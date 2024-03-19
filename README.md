@@ -14,6 +14,8 @@
 Homepage:<br>
 ![alt text](https://github.com/CosmiX-6/FoodPlaza/blob/main/Screenshots/foodplaza-admin-home-1.png "Home Preview")
 ![alt text](https://github.com/CosmiX-6/FoodPlaza/blob/main/Screenshots/foodplaza-login.png "Login Preview")
+![alt text](![Screenshot 2024-03-19 204354](https://github.com/sahealam786/FoodPlaza-main/assets/145270582/b39636a0-1386-45d3-8f62-d1ff930b147b)"Login Preview")
+
 
 -----------------------------------------------
 `<url>/admin` (Database Backend)<br>
